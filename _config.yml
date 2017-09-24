@@ -1,0 +1,13 @@
+
+title: GitHub
+email: taniarascia@gmail.com
+description: >
+  Test Jekyll page.
+baseurl: "/startjekyll"
+url: "http://helloMikkie.github.io"
+
+github_username: helloMikkie
+# Build Settings
+
+kramdown:
+  input: GF
